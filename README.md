@@ -2,19 +2,14 @@
 Data Analysis on Chicago taxicab rides and weather reports to advise hypothetical ride-sharing company Zuber
 What affects a taxi ride in Chicago?
 
-### Background
+## Background
 This project is part of the Data Scientist training program from Practicum by Yandex. More info in link below:
 
 https://practicum.yandex.com/data-scientist
 
-### Project Setup
-You're working as an analyst for Zuber, a new ride-sharing company that's launching in Chicago. Your task is to find patterns in the available information. You want to understand passenger preferences and the impact of external factors on rides.
-
-You'll study a database, analyze data from competitors, and test a hypothesis about the impact of weather on ride frequency.
-
 **Skills Used: Data Collection and Storage (SQL)**
 
-### Data Description
+## Data Description
 A database with info on taxi rides in Chicago:
 
 **neighborhoods table: data on city neighborhoods**
