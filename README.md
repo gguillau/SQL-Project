@@ -40,3 +40,10 @@ A database with info on taxi rides in Chicago:
 * ts: record date and time (time rounded to the hour)
 * temperature: temperature when the record was taken
 description: brief description of weather conditions, e.g. "light rain" or "scattered clouds"
+
+## Libraries Used
+* Pandas
+* Matplotlib.pyplot
+* seaborn
+* scipy.stats
+* numpy
