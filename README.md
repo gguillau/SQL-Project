@@ -47,3 +47,5 @@ description: brief description of weather conditions, e.g. "light rain" or "scat
 * seaborn
 * scipy.stats
 * numpy
+* Beautiful Soup
+* Requests
