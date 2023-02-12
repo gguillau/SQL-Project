@@ -49,3 +49,4 @@ description: brief description of weather conditions, e.g. "light rain" or "scat
 * numpy
 * Beautiful Soup
 * Requests
+* PySpark
