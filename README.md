@@ -1,4 +1,4 @@
-# <p align='center'> Chicago Ride Share Analysis </p>
+# <p align='center'> Ride Share Data Extraction & Analysis </p>
 <p align='center'>
   <img src="https://github.com/giova22i/Data-Science-Portfolio/blob/main/images/ridecover.jpg" />
     </p>
